@@ -1,0 +1,1 @@
+{"name":"trustcertia","owner":{"name":"TrustCertia","url":"https://trustcertia.com"},"metadata":{"description":"Publisher-maintained TrustCertia integrations","version":"1.1.0"},"plugins":[{"name":"trustcertia","source":"./plugins/trustcertia","description":"Inspect signed website evidence and prepare owner-authorized project certification.","version":"1.1.0"}]}
